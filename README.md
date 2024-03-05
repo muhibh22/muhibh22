@@ -4,8 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhibh22&label=Profile%20views&color=0e75b6&style=flat" alt="muhibh22" /> </p>
 
 
-- 🌱 I’m currently learning **MERN Stack**
-
 - 💬 Ask me about **Web Developement and Software Engineering**
 
 - 📫 How to reach me **muhibh22@gmail.com**
