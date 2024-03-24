@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Md. Mohibul Hasan from Bangladesh<br><br>- 🔭 I’m working as a Software Engineer at Scube Technologies <br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I read books</p>
+<p align="left">I'm Md. Mohibul Hasan from Bangladesh<br><br>- 🔭 I’m working as a Software Engineer at Scube Technologies <br>- 📚 I'm currently learning Advanced Python, OPC UA, Snap7<br>- ⚡ In my free time I read books</p>
 
 ###
 
